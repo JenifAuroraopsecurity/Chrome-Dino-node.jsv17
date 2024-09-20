@@ -1,4 +1,5 @@
 # Chrome-Dino-node.jsv17
+Requires `discord.js` and `canvas`
 Make your discord bot show a cute chrome dino show
 
 A chrome dino show to show off to your friends via your discord bot!
